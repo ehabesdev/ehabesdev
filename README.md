@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emirhan Hanifi HABEŞ</h1>
+
 <h3 align="center">42 Kocaeli yazılım okulunda öğrenciyim ve yazılım geliştirme konusunda tutkuluyum.</h3>
 
 - 🔭 I’m currently working on **C**
