@@ -1,13 +1,4 @@
 ![42 École Student](https://github.com/ehabesdev/ehabesdev/blob/main/banner/bnr.png?raw=true)
-
-42 Kocaeli Eğitimim:
-
-42 Kocaeli, öğrencilerine proje tabanlı öğrenme imkanı sunan, yenilikçi ve uygulamalı bir eğitim modeline sahip. Bu okulda, modern yazılım geliştirme tekniklerini öğrenirken, ekip çalışması ve problem çözme becerilerimi de geliştiriyorum.
-
-Gelecek Hedeflerim:
-
-Gelecekte siber güvenlik alanında uzmanlaşmayı ve özellikle sistem ve kernel seviyesinde güvenlik konularına odaklanmayı hedefliyorum. Bu alandaki bilgi birikimimi artırarak, daha güvenli sistemler geliştirmeye katkıda bulunmak istiyorum.
-
   
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>
 </a> 
