@@ -23,4 +23,6 @@
 <!-- platane/snk works, it just puts it on a new branch -->
 ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-snake.svg)
 <!-- ![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif) -->
-
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ehabesdev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br/>  
