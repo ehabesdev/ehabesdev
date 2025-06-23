@@ -1,28 +1,74 @@
-![42 École Student](https://github.com/ehabesdev/ehabesdev/blob/main/banner/banner.png?raw=true)
-  
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>
-</a> 
 
-<div align="left">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+![42 École Student](https://github.com/ehabesdev/ehabesdev/blob/main/banner/banner.png?raw=true)
+
+## 🎮 About Me
+
+I'm an **aspiring Game Developer** and a student at **42 École**, currently exploring the exciting world of game development. I'm passionate about learning new technologies and gradually building my skills in creating interactive experiences.
+
+- 🌱 Learning game development fundamentals and exploring Unity
+- 🎮 Experimenting with small game projects and mechanics
+- 📚 Studying game design principles and development workflows
+- 🎯 Looking to connect with other game dev enthusiasts and learn together
+- 🎨 Interested in the creative and technical sides of game development
+- 📍 Based in Turkey
+
+## 🚀 Technologies & Tools
+
+### Learning Game Development
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### Core Programming Skills
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### Web & Tools
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ehabesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehabesdev&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<br/>  
+## 🐍 Contribution Snake
+<div align="center">
+  <img src="https://github.com/ehabesdev/ehabesdev/blob/output/github-snake.svg" alt="Snake animation" />
+</div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ehabesdev?tab=repositories)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/emrhn.hbs/)  
+## 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ehabesdev&theme=tokyo-night&area=true&hide_border=true" />
+</div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+## 🎯 Current Focus
 
-<!-- platane/snk works, it just puts it on a new branch -->
-![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-snake.svg)
-<!-- ![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif) -->
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ehabesdev&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 80%" /></div>  
-<br/>  
+- 🎮 Learning Unity engine basics and C# programming for games
+- 🕹️ Working on small game prototypes to practice new concepts
+- 📖 Following game development tutorials and courses
+- 👥 Seeking mentorship and collaboration opportunities in game dev
+- 💬 Always eager to learn
+
+## 📫 Let's Connect!
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ehabesdev?tab=repositories)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emrhn.hbs/)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ehabesdev&color=blueviolet&style=flat-square&label=Profile+Views" />
+</div>
+
+<div align="center">
+  <i>🌱 "Every expert was once a beginner - enjoying the journey!" 🎮</i>
+</div>
