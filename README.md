@@ -70,5 +70,5 @@ I'm an **aspiring Game Developer** and a student at **42 École**, currently exp
 </div>
 
 <div align="center">
-  <i>🌱 "Every expert was once a beginner - enjoying the journey!" 🎮</i>
+  <i>🎮 "Every game is a world waiting to be explored" 🕹️</i>
 </div>
