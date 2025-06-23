@@ -10,7 +10,7 @@ I'm an **aspiring Game Developer** and a student at **42 École**, currently exp
 - 📚 Studying game design principles and development workflows
 - 🎯 Looking to connect with other game dev enthusiasts and learn together
 - 🎨 Interested in the creative and technical sides of game development
-- 📍 Based in Turkey
+- 📍 Based in Türkiye
 
 ## 🚀 Technologies & Tools
 
