@@ -66,16 +66,8 @@ Low-level projects written without the standard library — because rebuilding i
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 
-<div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ehabesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehabesdev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 ## Contact
 
